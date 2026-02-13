@@ -20,8 +20,9 @@ The simulator generates a secret number between **0 and 1000**. The player must 
 
 ## Technologies Used
 
-* **Language:** C (C11 standard)
-* **Libraries:** `stdio.h`, `stdlib.h`, `time.h`, `stdbool.h`
+* **Language:** C++ (using C-style procedural paradigm)
+* **Compiler:** GCC / G++
+* **Libraries:** `stdio.h`, `stdlib.h`, `time.h`
 
 ## How to Run
 
