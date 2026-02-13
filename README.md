@@ -40,7 +40,7 @@ The simulator generates a secret number between **0 and 1000**. The player must 
     ```
 
 ## Technical Note (Language)
-The internal source code (variables and comments) is written in **Catalan** as it was an academic requirement for the University of Lleida (UdL). The documentation is provided in English to ensure global accessibility.
+The source code, variable names, and internal comments are written in **Catalan**, as it was an academic project for University of Lleida (Catalonia) as part of the **Computer Science degree (Programació I, 2024-2025)**. This documentation is provided in English for universal portfolio visibility.
 
 ---
-**Developed by [Eric Buenavida]** - Computer Science Student.
+**Developed by:** Eric Buenavida Crespo.
