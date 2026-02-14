@@ -1,4 +1,4 @@
-# Lottery Simulator - Guess the Number
+# Lottery Simulator
 
 A technical implementation of a betting-based "Guess the Number" game developed in C. This project demonstrates foundational programming concepts such as random number generation, input validation, and game loop logic.
 
